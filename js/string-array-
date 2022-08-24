@@ -19,7 +19,4 @@ console.log(ac);
 
 
 
-const arr = ['apple','banana','mango'];
 
-console.log(arr);
-console.log(arr.length);
