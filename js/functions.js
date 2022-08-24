@@ -85,3 +85,5 @@ const person = {
 
   console.log(person.fullName());
   console.log(person.fullName2());
+
+

@@ -1,0 +1,25 @@
+
+
+//   String Join system concat, join , + 
+
+
+a = 'apple'
+
+b = a.concat(' banana');
+console.log(b);
+
+console.log(a.split());
+
+
+ab = ['apple', 'banana']
+
+ac = ab.join('<->');
+console.log(ac);
+
+
+
+
+const arr = ['apple','banana','mango'];
+
+console.log(arr);
+console.log(arr.length);
